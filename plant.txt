@@ -2,3 +2,5 @@ pui
 metuli
 dhone
 lau
+kumro
+aloo

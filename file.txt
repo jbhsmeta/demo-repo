@@ -4,3 +4,5 @@ banana
 watermelon
 pineapple
 strawberry
+orange
+cabbage
