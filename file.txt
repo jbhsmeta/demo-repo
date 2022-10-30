@@ -1,4 +1,6 @@
 apple
 mango
 banana
-
+watermelon
+pineapple
+strawberry
